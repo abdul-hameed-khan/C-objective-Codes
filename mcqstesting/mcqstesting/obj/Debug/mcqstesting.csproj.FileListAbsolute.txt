@@ -1,0 +1,10 @@
+C:\Users\Zulfiqar\source\repos\mcqstesting\mcqstesting\bin\Debug\mcqstesting.exe.config
+C:\Users\Zulfiqar\source\repos\mcqstesting\mcqstesting\bin\Debug\mcqstesting.exe
+C:\Users\Zulfiqar\source\repos\mcqstesting\mcqstesting\bin\Debug\mcqstesting.pdb
+C:\Users\Zulfiqar\source\repos\mcqstesting\mcqstesting\obj\Debug\mcqstesting.csprojAssemblyReference.cache
+C:\Users\Zulfiqar\source\repos\mcqstesting\mcqstesting\obj\Debug\mcqstesting.Form1.resources
+C:\Users\Zulfiqar\source\repos\mcqstesting\mcqstesting\obj\Debug\mcqstesting.Properties.Resources.resources
+C:\Users\Zulfiqar\source\repos\mcqstesting\mcqstesting\obj\Debug\mcqstesting.csproj.GenerateResource.cache
+C:\Users\Zulfiqar\source\repos\mcqstesting\mcqstesting\obj\Debug\mcqstesting.csproj.CoreCompileInputs.cache
+C:\Users\Zulfiqar\source\repos\mcqstesting\mcqstesting\obj\Debug\mcqstesting.exe
+C:\Users\Zulfiqar\source\repos\mcqstesting\mcqstesting\obj\Debug\mcqstesting.pdb

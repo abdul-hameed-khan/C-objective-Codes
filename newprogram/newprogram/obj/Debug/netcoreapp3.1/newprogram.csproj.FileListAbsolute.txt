@@ -1,0 +1,13 @@
+C:\Users\Zulfiqar\source\repos\newprogram\newprogram\bin\Debug\netcoreapp3.1\newprogram.exe
+C:\Users\Zulfiqar\source\repos\newprogram\newprogram\bin\Debug\netcoreapp3.1\newprogram.deps.json
+C:\Users\Zulfiqar\source\repos\newprogram\newprogram\bin\Debug\netcoreapp3.1\newprogram.runtimeconfig.json
+C:\Users\Zulfiqar\source\repos\newprogram\newprogram\bin\Debug\netcoreapp3.1\newprogram.runtimeconfig.dev.json
+C:\Users\Zulfiqar\source\repos\newprogram\newprogram\bin\Debug\netcoreapp3.1\newprogram.dll
+C:\Users\Zulfiqar\source\repos\newprogram\newprogram\bin\Debug\netcoreapp3.1\newprogram.pdb
+C:\Users\Zulfiqar\source\repos\newprogram\newprogram\obj\Debug\netcoreapp3.1\newprogram.csprojAssemblyReference.cache
+C:\Users\Zulfiqar\source\repos\newprogram\newprogram\obj\Debug\netcoreapp3.1\newprogram.AssemblyInfoInputs.cache
+C:\Users\Zulfiqar\source\repos\newprogram\newprogram\obj\Debug\netcoreapp3.1\newprogram.AssemblyInfo.cs
+C:\Users\Zulfiqar\source\repos\newprogram\newprogram\obj\Debug\netcoreapp3.1\newprogram.csproj.CoreCompileInputs.cache
+C:\Users\Zulfiqar\source\repos\newprogram\newprogram\obj\Debug\netcoreapp3.1\newprogram.dll
+C:\Users\Zulfiqar\source\repos\newprogram\newprogram\obj\Debug\netcoreapp3.1\newprogram.pdb
+C:\Users\Zulfiqar\source\repos\newprogram\newprogram\obj\Debug\netcoreapp3.1\newprogram.genruntimeconfig.cache
