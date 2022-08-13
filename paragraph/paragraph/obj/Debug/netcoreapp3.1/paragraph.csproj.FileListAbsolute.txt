@@ -1,0 +1,13 @@
+G:\C#\paragraph\paragraph\bin\Debug\netcoreapp3.1\paragraph.exe
+G:\C#\paragraph\paragraph\bin\Debug\netcoreapp3.1\paragraph.deps.json
+G:\C#\paragraph\paragraph\bin\Debug\netcoreapp3.1\paragraph.runtimeconfig.json
+G:\C#\paragraph\paragraph\bin\Debug\netcoreapp3.1\paragraph.runtimeconfig.dev.json
+G:\C#\paragraph\paragraph\bin\Debug\netcoreapp3.1\paragraph.dll
+G:\C#\paragraph\paragraph\bin\Debug\netcoreapp3.1\paragraph.pdb
+G:\C#\paragraph\paragraph\obj\Debug\netcoreapp3.1\paragraph.csprojAssemblyReference.cache
+G:\C#\paragraph\paragraph\obj\Debug\netcoreapp3.1\paragraph.AssemblyInfoInputs.cache
+G:\C#\paragraph\paragraph\obj\Debug\netcoreapp3.1\paragraph.AssemblyInfo.cs
+G:\C#\paragraph\paragraph\obj\Debug\netcoreapp3.1\paragraph.csproj.CoreCompileInputs.cache
+G:\C#\paragraph\paragraph\obj\Debug\netcoreapp3.1\paragraph.dll
+G:\C#\paragraph\paragraph\obj\Debug\netcoreapp3.1\paragraph.pdb
+G:\C#\paragraph\paragraph\obj\Debug\netcoreapp3.1\paragraph.genruntimeconfig.cache
