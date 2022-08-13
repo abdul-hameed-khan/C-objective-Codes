@@ -1,0 +1,13 @@
+G:\C#\primechecker\primechecker\bin\Debug\netcoreapp3.1\primechecker.exe
+G:\C#\primechecker\primechecker\bin\Debug\netcoreapp3.1\primechecker.deps.json
+G:\C#\primechecker\primechecker\bin\Debug\netcoreapp3.1\primechecker.runtimeconfig.json
+G:\C#\primechecker\primechecker\bin\Debug\netcoreapp3.1\primechecker.runtimeconfig.dev.json
+G:\C#\primechecker\primechecker\bin\Debug\netcoreapp3.1\primechecker.dll
+G:\C#\primechecker\primechecker\bin\Debug\netcoreapp3.1\primechecker.pdb
+G:\C#\primechecker\primechecker\obj\Debug\netcoreapp3.1\primechecker.csprojAssemblyReference.cache
+G:\C#\primechecker\primechecker\obj\Debug\netcoreapp3.1\primechecker.AssemblyInfoInputs.cache
+G:\C#\primechecker\primechecker\obj\Debug\netcoreapp3.1\primechecker.AssemblyInfo.cs
+G:\C#\primechecker\primechecker\obj\Debug\netcoreapp3.1\primechecker.csproj.CoreCompileInputs.cache
+G:\C#\primechecker\primechecker\obj\Debug\netcoreapp3.1\primechecker.dll
+G:\C#\primechecker\primechecker\obj\Debug\netcoreapp3.1\primechecker.pdb
+G:\C#\primechecker\primechecker\obj\Debug\netcoreapp3.1\primechecker.genruntimeconfig.cache
