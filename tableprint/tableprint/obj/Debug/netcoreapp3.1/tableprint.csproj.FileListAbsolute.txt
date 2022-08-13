@@ -1,0 +1,13 @@
+C:\Users\Zulfiqar\source\repos\tableprint\tableprint\bin\Debug\netcoreapp3.1\tableprint.exe
+C:\Users\Zulfiqar\source\repos\tableprint\tableprint\bin\Debug\netcoreapp3.1\tableprint.deps.json
+C:\Users\Zulfiqar\source\repos\tableprint\tableprint\bin\Debug\netcoreapp3.1\tableprint.runtimeconfig.json
+C:\Users\Zulfiqar\source\repos\tableprint\tableprint\bin\Debug\netcoreapp3.1\tableprint.runtimeconfig.dev.json
+C:\Users\Zulfiqar\source\repos\tableprint\tableprint\bin\Debug\netcoreapp3.1\tableprint.dll
+C:\Users\Zulfiqar\source\repos\tableprint\tableprint\bin\Debug\netcoreapp3.1\tableprint.pdb
+C:\Users\Zulfiqar\source\repos\tableprint\tableprint\obj\Debug\netcoreapp3.1\tableprint.csprojAssemblyReference.cache
+C:\Users\Zulfiqar\source\repos\tableprint\tableprint\obj\Debug\netcoreapp3.1\tableprint.AssemblyInfoInputs.cache
+C:\Users\Zulfiqar\source\repos\tableprint\tableprint\obj\Debug\netcoreapp3.1\tableprint.AssemblyInfo.cs
+C:\Users\Zulfiqar\source\repos\tableprint\tableprint\obj\Debug\netcoreapp3.1\tableprint.csproj.CoreCompileInputs.cache
+C:\Users\Zulfiqar\source\repos\tableprint\tableprint\obj\Debug\netcoreapp3.1\tableprint.dll
+C:\Users\Zulfiqar\source\repos\tableprint\tableprint\obj\Debug\netcoreapp3.1\tableprint.pdb
+C:\Users\Zulfiqar\source\repos\tableprint\tableprint\obj\Debug\netcoreapp3.1\tableprint.genruntimeconfig.cache
